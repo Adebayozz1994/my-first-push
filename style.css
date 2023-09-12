@@ -1,0 +1,10 @@
+h1{
+    color: rebeccapurple;
+    margin: 5px;
+    font-family: sans-serif;
+}
+p{
+    color: maroon;
+    margin: 10px;
+    text-shadow: 1px 3px 2px red;
+}
